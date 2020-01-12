@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["ESNext","DOM"]
+        ,"outFile": "script.js"
+    }
+    ,"include": ["scripts/*.ts"]
+    ,"compileOnSave": true
+    
+}
